@@ -40,7 +40,7 @@ white = "0xD9E0EE"
 yellow = "0xFAE3B0"
 
 [colors.primary]
-background = "0x1E1D2F"
+background = "0x1B1C1C"
 foreground = "0xD9E0EE"
 
 [cursor]
@@ -94,7 +94,7 @@ program = "/bin/zsh"
 decorations = "full"
 dynamic_title = true
 startup_mode = "Maximized"
-opacity = 0.9
+opacity = 0.95
 blur = true
 
 [window.dimensions]
