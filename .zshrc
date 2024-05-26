@@ -115,4 +115,7 @@ source $ZSH/oh-my-zsh.sh
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
 alias ls='colorls'
-
+alias c="clear && nerdfetch"
+alias upd="sudo apt update"
+alias upg="sudo apt upgrade"
+alias i="nerdfetch"
